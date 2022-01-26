@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{F6A5D92F-C158-4C39-9112-A7F19F2A95DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{28E9870D-F684-4283-A26C-659643F57C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F6A5D92F-C158-4C39-9112-A7F19F2A95DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A5D92F-C158-4C39-9112-A7F19F2A95DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A5D92F-C158-4C39-9112-A7F19F2A95DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E9870D-F684-4283-A26C-659643F57C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E9870D-F684-4283-A26C-659643F57C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E9870D-F684-4283-A26C-659643F57C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E9870D-F684-4283-A26C-659643F57C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
